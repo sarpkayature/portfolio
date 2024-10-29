@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // ESLint
+    "esbenp.prettier-vscode", // Prettier
+    "dsznajder.es7-react-js-snippets", // ES7+ React/Redux/React-Native snippets
+    "formulahendry.auto-rename-tag", // Auto Rename Tag
+    "formulahendry.auto-close-tag", // Auto Close Tag
+    "eamodio.gitlens", // GitLens — Git supercharged
+    "streetsidesoftware.code-spell-checker", // Code Spell Checker
+    "msjsdiag.debugger-for-chrome", // Debugger for Chrome
+    "wix.vscode-import-cost", // Import Cost
+    "xabikos.javascriptsnippets", // JavaScript (ES6) code snippets
+    "visualstudioexptteam.vscodeintellicode" // Visual Studio IntelliCode
+  ]
+}
